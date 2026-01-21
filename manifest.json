@@ -1,0 +1,21 @@
+{
+  "name": "Verifikasi Timbangan Pro",
+  "short_name": "Timbangan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e0eafc",
+  "theme_color": "#007AFF",
+  "description": "Aplikasi verifikasi akurasi timbangan digital",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
